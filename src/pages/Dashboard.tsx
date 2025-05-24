@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, User, Clock, ShoppingCart, ShoppingBag, Menu, X } from 'lucide-react';
+import { Search, User, ShoppingBag, Menu } from 'lucide-react';
 import type { Restaurant, Category } from '../types';
 import cupcakeOfferImg from '../assets/images/cupcake_offer_img.png';
 import burgerOfferImg from '../assets/images/burger_offer_img.png';
